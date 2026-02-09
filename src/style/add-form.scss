@@ -1,0 +1,14 @@
+.add-form{
+    display: flex;
+    flex-direction: column;
+   
+    gap: 1rem;
+
+    input, textarea{
+        padding: 1rem;
+        border-radius: 5px;
+        width: 260px;
+        max-width: 100%;
+    }
+}
+
